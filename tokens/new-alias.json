@@ -1,0 +1,492 @@
+{
+  "Heading 1": {
+    "fontFamily": {
+      "value": "{fontFamily}",
+      "type": "fontFamilies"
+    },
+    "fontWeight": {
+      "value": "16",
+      "type": "fontWeights"
+    },
+    "lineHeight": {
+      "value": "16 + 8",
+      "type": "lineHeight"
+    },
+    "fontSize": {
+      "value": "16",
+      "type": "fontSizes"
+    }
+  },
+  "Heading 2": {
+    "fontFamily": {
+      "value": "{fontFamily}",
+      "type": "fontFamilies"
+    },
+    "fontWeight": {
+      "value": "16",
+      "type": "fontWeights"
+    },
+    "lineHeight": {
+      "value": "16 + 8",
+      "type": "lineHeight"
+    },
+    "fontSize": {
+      "value": "16",
+      "type": "fontSizes"
+    }
+  },
+  "Heading 3": {
+    "fontFamily": {
+      "value": "{fontFamily}",
+      "type": "fontFamilies"
+    },
+    "fontWeight": {
+      "value": "16",
+      "type": "fontWeights"
+    },
+    "lineHeight": {
+      "value": "16 + 8",
+      "type": "lineHeight"
+    },
+    "fontSize": {
+      "value": "16",
+      "type": "fontSizes"
+    }
+  },
+  "Heading 4": {
+    "fontFamily": {
+      "value": "{fontFamily}",
+      "type": "fontFamilies"
+    },
+    "fontWeight": {
+      "value": "16",
+      "type": "fontWeights"
+    },
+    "lineHeight": {
+      "value": "16 + 8",
+      "type": "lineHeight"
+    },
+    "fontSize": {
+      "value": "16",
+      "type": "fontSizes"
+    }
+  },
+  "Heading 5": {
+    "fontFamily": {
+      "value": "{fontFamily}",
+      "type": "fontFamilies"
+    },
+    "fontWeight": {
+      "value": "16",
+      "type": "fontWeights"
+    },
+    "lineHeight": {
+      "value": "16 + 8",
+      "type": "lineHeight"
+    },
+    "fontSize": {
+      "value": "16",
+      "type": "fontSizes"
+    }
+  },
+  "XL Normal": {
+    "fontFamily": {
+      "value": "{fontFamily}",
+      "type": "fontFamilies"
+    },
+    "fontWeight": {
+      "value": "16",
+      "type": "fontWeights"
+    },
+    "lineHeight": {
+      "value": "16 + 8",
+      "type": "lineHeight"
+    },
+    "fontSize": {
+      "value": "16",
+      "type": "fontSizes"
+    }
+  },
+  "XL Strong": {
+    "fontFamily": {
+      "value": "{fontFamily}",
+      "type": "fontFamilies"
+    },
+    "fontWeight": {
+      "value": "16",
+      "type": "fontWeights"
+    },
+    "lineHeight": {
+      "value": "16 + 8",
+      "type": "lineHeight"
+    },
+    "fontSize": {
+      "value": "16",
+      "type": "fontSizes"
+    }
+  },
+  "XL Underline": {
+    "fontFamily": {
+      "value": "{fontFamily}",
+      "type": "fontFamilies"
+    },
+    "fontWeight": {
+      "value": "16",
+      "type": "fontWeights"
+    },
+    "lineHeight": {
+      "value": "16 + 8",
+      "type": "lineHeight"
+    },
+    "fontSize": {
+      "value": "16",
+      "type": "fontSizes"
+    },
+    "textDecoration": {
+      "value": "underline",
+      "type": "textDecoration"
+    }
+  },
+  "XL Delete": {
+    "fontFamily": {
+      "value": "{fontFamily}",
+      "type": "fontFamilies"
+    },
+    "fontWeight": {
+      "value": "16",
+      "type": "fontWeights"
+    },
+    "lineHeight": {
+      "value": "16 + 8",
+      "type": "lineHeight"
+    },
+    "fontSize": {
+      "value": "16",
+      "type": "fontSizes"
+    },
+    "textDecoration": {
+      "value": "line-through",
+      "type": "textDecoration"
+    }
+  },
+  "XL Italic": {
+    "fontFamily": {
+      "value": "{fontFamily}",
+      "type": "fontFamilies"
+    },
+    "fontWeight": {
+      "value": "16",
+      "type": "fontWeights"
+    },
+    "lineHeight": {
+      "value": "16 + 8",
+      "type": "lineHeight"
+    },
+    "fontSize": {
+      "value": "16",
+      "type": "fontSizes"
+    }
+  },
+  "LG Normal": {
+    "fontFamily": {
+      "value": "{fontFamily}",
+      "type": "fontFamilies"
+    },
+    "fontWeight": {
+      "value": "16",
+      "type": "fontWeights"
+    },
+    "lineHeight": {
+      "value": "16 + 8",
+      "type": "lineHeight"
+    },
+    "fontSize": {
+      "value": "16",
+      "type": "fontSizes"
+    }
+  },
+  "LG Strong": {
+    "fontFamily": {
+      "value": "{fontFamily}",
+      "type": "fontFamilies"
+    },
+    "fontWeight": {
+      "value": "16",
+      "type": "fontWeights"
+    },
+    "lineHeight": {
+      "value": "16 + 8",
+      "type": "lineHeight"
+    },
+    "fontSize": {
+      "value": "16",
+      "type": "fontSizes"
+    }
+  },
+  "LG Underline": {
+    "fontFamily": {
+      "value": "{fontFamily}",
+      "type": "fontFamilies"
+    },
+    "fontWeight": {
+      "value": "16",
+      "type": "fontWeights"
+    },
+    "lineHeight": {
+      "value": "16 + 8",
+      "type": "lineHeight"
+    },
+    "fontSize": {
+      "value": "16",
+      "type": "fontSizes"
+    },
+    "textDecoration": {
+      "value": "underline",
+      "type": "textDecoration"
+    }
+  },
+  "LG Delete": {
+    "fontFamily": {
+      "value": "{fontFamily}",
+      "type": "fontFamilies"
+    },
+    "fontWeight": {
+      "value": "16",
+      "type": "fontWeights"
+    },
+    "lineHeight": {
+      "value": "16 + 8",
+      "type": "lineHeight"
+    },
+    "fontSize": {
+      "value": "16",
+      "type": "fontSizes"
+    },
+    "textDecoration": {
+      "value": "line-through",
+      "type": "textDecoration"
+    }
+  },
+  "LG Italic": {
+    "fontFamily": {
+      "value": "{fontFamily}",
+      "type": "fontFamilies"
+    },
+    "fontWeight": {
+      "value": "16",
+      "type": "fontWeights"
+    },
+    "lineHeight": {
+      "value": "16 + 8",
+      "type": "lineHeight"
+    },
+    "fontSize": {
+      "value": "16",
+      "type": "fontSizes"
+    }
+  },
+  "SM Normal": {
+    "fontFamily": {
+      "value": "{fontFamily}",
+      "type": "fontFamilies"
+    },
+    "fontWeight": {
+      "value": "16",
+      "type": "fontWeights"
+    },
+    "lineHeight": {
+      "value": "16 + 8",
+      "type": "lineHeight"
+    },
+    "fontSize": {
+      "value": "16",
+      "type": "fontSizes"
+    }
+  },
+  "SM Strong": {
+    "fontFamily": {
+      "value": "{fontFamily}",
+      "type": "fontFamilies"
+    },
+    "fontWeight": {
+      "value": "16",
+      "type": "fontWeights"
+    },
+    "lineHeight": {
+      "value": "16 + 8",
+      "type": "lineHeight"
+    },
+    "fontSize": {
+      "value": "16",
+      "type": "fontSizes"
+    }
+  },
+  "SM Underline": {
+    "fontFamily": {
+      "value": "{fontFamily}",
+      "type": "fontFamilies"
+    },
+    "fontWeight": {
+      "value": "16",
+      "type": "fontWeights"
+    },
+    "lineHeight": {
+      "value": "16 + 8",
+      "type": "lineHeight"
+    },
+    "fontSize": {
+      "value": "16",
+      "type": "fontSizes"
+    },
+    "textDecoration": {
+      "value": "underline",
+      "type": "textDecoration"
+    }
+  },
+  "SM Delete": {
+    "fontFamily": {
+      "value": "{fontFamily}",
+      "type": "fontFamilies"
+    },
+    "fontWeight": {
+      "value": "16",
+      "type": "fontWeights"
+    },
+    "lineHeight": {
+      "value": "16 + 8",
+      "type": "lineHeight"
+    },
+    "fontSize": {
+      "value": "16",
+      "type": "fontSizes"
+    },
+    "textDecoration": {
+      "value": "line-through",
+      "type": "textDecoration"
+    }
+  },
+  "SM Italic": {
+    "fontFamily": {
+      "value": "{fontFamily}",
+      "type": "fontFamilies"
+    },
+    "fontWeight": {
+      "value": "16",
+      "type": "fontWeights"
+    },
+    "lineHeight": {
+      "value": "16 + 8",
+      "type": "lineHeight"
+    },
+    "fontSize": {
+      "value": "16",
+      "type": "fontSizes"
+    },
+    "textDecoration": {
+      "value": "line-through",
+      "type": "textDecoration"
+    }
+  },
+  "Base Normal": {
+    "fontFamily": {
+      "value": "{fontFamily}",
+      "type": "fontFamilies"
+    },
+    "fontWeight": {
+      "value": "16",
+      "type": "fontWeights"
+    },
+    "lineHeight": {
+      "value": "{fontSize} + 8",
+      "type": "lineHeight"
+    },
+    "fontSize": {
+      "value": "{fontSize}",
+      "type": "fontSizes"
+    }
+  },
+  "Base Strong": {
+    "fontFamily": {
+      "value": "{fontFamily}",
+      "type": "fontFamilies"
+    },
+    "fontWeight": {
+      "value": "16",
+      "type": "fontWeights"
+    },
+    "lineHeight": {
+      "value": "{fontSize} + 8",
+      "type": "lineHeight"
+    },
+    "fontSize": {
+      "value": "{fontSize}",
+      "type": "fontSizes"
+    }
+  },
+  "Base Underline": {
+    "fontFamily": {
+      "value": "{fontFamily}",
+      "type": "fontFamilies"
+    },
+    "fontWeight": {
+      "value": "16",
+      "type": "fontWeights"
+    },
+    "lineHeight": {
+      "value": "{fontSize} + 8",
+      "type": "lineHeight"
+    },
+    "fontSize": {
+      "value": "{fontSize}",
+      "type": "fontSizes"
+    },
+    "textDecoration": {
+      "value": "underline",
+      "type": "textDecoration"
+    }
+  },
+  "Base Delete": {
+    "fontFamily": {
+      "value": "{fontFamily}",
+      "type": "fontFamilies"
+    },
+    "fontWeight": {
+      "value": "16",
+      "type": "fontWeights"
+    },
+    "lineHeight": {
+      "value": "{fontSize} + 8",
+      "type": "lineHeight"
+    },
+    "fontSize": {
+      "value": "{fontSize}",
+      "type": "fontSizes"
+    },
+    "textDecoration": {
+      "value": "line-through",
+      "type": "textDecoration"
+    }
+  },
+  "Base Italic": {
+    "fontFamily": {
+      "value": "{fontFamily}",
+      "type": "fontFamilies"
+    },
+    "fontWeight": {
+      "value": "16",
+      "type": "fontWeights"
+    },
+    "lineHeight": {
+      "value": "{fontSize} + 8",
+      "type": "lineHeight"
+    },
+    "fontSize": {
+      "value": "{fontSize}",
+      "type": "fontSizes"
+    },
+    "textDecoration": {
+      "value": "",
+      "type": "textDecoration"
+    }
+  }
+}
